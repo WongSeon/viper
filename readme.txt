@@ -1,6 +1,6 @@
 
 
-install jinja2
+pip install jinja2
 
 
 python init_db.py
